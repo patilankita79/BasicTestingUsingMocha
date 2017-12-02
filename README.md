@@ -27,4 +27,15 @@ In package.json, under "scripts", write "test": "mocha **/*test.js"
 npm test
 ```
 
+<hr>
+
+### Test cases to check addition of two numbers, sqaure of a number.
+
+##### Passing test case 
+<img src="https://github.com/patilankita79/BasicTestingUsingMocha/blob/master/Screenshots/AddTestcaseSuccess.png" />
+<br>
+##### Failing test case
+<img src="https://github.com/patilankita79/BasicTestingUsingMocha/blob/master/Screenshots/AddTestCaseFailed.png" />
+<br>
+<img src="https://github.com/patilankita79/BasicTestingUsingMocha/blob/master/Screenshots/AddSqaureTestCases.png" />
 
