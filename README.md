@@ -31,13 +31,13 @@ npm test
 
 ### Test cases to check addition of two numbers, sqaure of a number.
 
-##### Passing test case 
+#### Passing test case 
 <img src="https://github.com/patilankita79/BasicTestingUsingMocha/blob/master/Screenshots/1.png" />
 <img src="https://github.com/patilankita79/BasicTestingUsingMocha/blob/master/Screenshots/3.png" />
 <img src="https://github.com/patilankita79/BasicTestingUsingMocha/blob/master/Screenshots/AddTestcaseSuccess.png" />
 <br>
 
-##### Failing test case
+#### Failing test case
 <img src = "https://github.com/patilankita79/BasicTestingUsingMocha/blob/master/Screenshots/2.png" />
 <img src="https://github.com/patilankita79/BasicTestingUsingMocha/blob/master/Screenshots/4.png" />
 <img src="https://github.com/patilankita79/BasicTestingUsingMocha/blob/master/Screenshots/AddTestCaseFailed.png" />
